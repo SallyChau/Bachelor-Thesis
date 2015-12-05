@@ -1,8 +1,8 @@
 # Bachelor Thesis: Complexity in Congestion Games and the Nash-Equilibrium
 
-University of Bonn, 2nd term 2015
+_University of Bonn, 2nd term 2015_
 
-Course Convener: Prof. Dr. Heiko Röglin
+_Course Convener: Prof. Dr. Heiko Röglin_
 
 A thesis written by Sally Chau
 
