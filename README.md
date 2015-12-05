@@ -2,7 +2,7 @@
 
 _University of Bonn, 2nd term 2015_
 
-_Course Convener: Prof. Dr. Heiko Röglin_
+_Course Convener: Prof. Dr. Heiko Röglin (http://roeglin.org/)_
 
 A thesis written by Sally Chau
 
